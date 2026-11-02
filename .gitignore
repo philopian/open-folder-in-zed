@@ -1,0 +1,5 @@
+.DS_Store
+._*
+
+# Built app bundle — regenerate with ./build-app.sh
+Open in Zed.app/
